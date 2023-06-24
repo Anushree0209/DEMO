@@ -2,3 +2,5 @@ places
 stash2
 stashing
 
+revert
+
