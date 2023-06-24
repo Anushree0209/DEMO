@@ -1,0 +1,18 @@
+Indian 
+Japanese
+Chinese
+
+--Indian
+ * idli/sambar
+ *poori
+ *chapathi
+
+--Japanese
+ *sushi
+ *onigiri
+ *yakitori
+
+ --chinese
+ *dimsum
+ *dumplings
+ *char sui
